@@ -1,0 +1,38 @@
+html{
+	position: relative;
+	min-height: 100%;
+
+}
+body{
+	margin-bottom: 150px;
+	background: green;
+}
+#thing{
+	background: grey;
+	/*width: 400px;*/
+	/*height: 500px;*/
+	width: 100%;
+	padding: 30px 20px 40px;
+	margin-top: 70px;
+	text-align: center;
+}
+
+#stuff{
+	padding-top: 25px;
+	text-align: center;
+}
+
+.junk{
+	background: blue;
+	/* padding: 30px; */
+	margin-top: 70px;
+	
+
+}
+
+.junk>p{
+	/* padding-top:30px; */
+	font-size: 15px;
+	line-height: 30px;
+	color:gray;
+}
